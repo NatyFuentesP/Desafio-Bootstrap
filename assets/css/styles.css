@@ -1,0 +1,41 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    padding-top: 0%;
+    padding-bottom: 0.5rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show {
+    color: #fff;
+    opacity: 100%;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    opacity: 75%;
+
+}
+
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: #fff;
+    opacity: 50%;
+
+}
+
+.card-text {
+    font-weight: 300;
+}
+
+.text-secondary {
+    color: #707070;
+    font-weight: 300;
+}
+
+footer {
+    color: #707070;
+    font-weight: 300;
+}
